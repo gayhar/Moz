@@ -4,11 +4,11 @@
       "user": "Player1",
       "status": "ACTIVE",
       "validity": "30-12-2026 23:59:59",
-      "maxDevices": 2,
+      "maxDevices": 1,
       "deviceCount": 1,
       "devices": {
-        "ANDROID_ID_001": {
-          "deviceId": "ANDROID_ID_001",
+        "812f3f240393ac74": {
+          "deviceId": "812f3f240393ac74",
           "deviceNumber": 1,
           "time": "2026-11-09 18:00:00"
         }
