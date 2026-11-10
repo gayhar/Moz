@@ -7,8 +7,8 @@
       "maxDevices": 1,
       "deviceCount": 1,
       "devices": {
-        "5cf18de40d2618e5": {
-          "deviceId": "5cf18de40d2618e5",
+        "812f3f240393ac74": {
+          "deviceId": "812f3f240393ac74",
           "deviceNumber": 1,
           "time": "2026-11-09 18:00:00"
         }
