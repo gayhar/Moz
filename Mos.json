@@ -42,6 +42,19 @@
         }
       }
     },
+    "CYBER-0yooz": {
+      "user": "Player3",
+      "status": "ACTIVE",
+      "validity": "10-12-2026 23:59:59",
+      "maxDevices": 1,
+      "deviceCount": 1,
+      "devices": {
+        "812f3f240393ac74": {
+          "deviceId": "23dfc2bf5d05a893",
+          "deviceNumber": 1,
+          "time": "2026-11-10 20:23:00"
+        }
+      },
     "CYBER-004": {
       "user": "Player4",
       "status": "ACTIVE",
