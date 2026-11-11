@@ -41,6 +41,20 @@
           "time": "2026-11-10 20:23:00"
         }
       }
+    },
+    "CYBER-004": {
+      "user": "Player4",
+      "status": "ACTIVE",
+      "validity": "30-12-2026 23:59:59",
+      "maxDevices": 1,
+      "deviceCount": 1,
+      "devices": {
+        "5fe52f222dc240ff": {
+          "deviceId": "5fe52f222dc240ff",
+          "deviceNumber": 1,
+          "time": "2026-11-11 17:58:00"
+        }
+      }
     }
   }
 }
